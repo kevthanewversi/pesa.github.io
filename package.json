@@ -1,0 +1,25 @@
+{
+  "name": "pesa",
+  "version": "1.0.0",
+  "description": "pesa is money in swahili. I'm building a currency for the acl challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevthanewversi/pesa.github.io.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "kevthanewversi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevthanewversi/pesa.github.io/issues"
+  },
+  "homepage": "https://github.com/kevthanewversi/pesa.github.io#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
